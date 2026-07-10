@@ -3,8 +3,7 @@
 An enterprise-grade data visualization and business intelligence project built with **Power BI**, **SQL**, and **Python**. This project transforms raw retail transactional data into an interactive, high-impact executive dashboard tailored for market performance and operational insights.
 
 ## 🖥️ Dashboard Preview
-![Superstore Dashboard](Ekran şəkli 2026-07-09 111325.png)
-
+<img width="903" height="510" alt="Ekran şəkli 2026-07-09 113142" src="https://github.com/user-attachments/assets/ca417fca-ac73-4675-889d-25ab09654231" />
 ---
 
 ## 🚀 Project Overview & Scope
